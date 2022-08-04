@@ -1,0 +1,16 @@
+{
+  "name": "@yanjian92/utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
